@@ -1,0 +1,10 @@
+.git/
+.gitignore
+.vscode/
+dist/
+coverage/
+test/
+node_modules
+!README*.md
+*.log
+.prettierrc
